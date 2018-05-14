@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anthonyntk/react-native-music-widget.git"
+    "url": "git+https://github.com/AnthonyNTK/react-native-music-widget"
   },
   "keywords": [
     "react native",
@@ -25,7 +25,7 @@
     "react-native-sound": "^0.10.9",
   },
   "bugs": {
-    "url": "https://github.com/anthonyntk/react-native-music-widget/issues"
+    "url": "https://github.com/AnthonyNTK/react-native-music-widget/issues"
   },
-  "homepage": "https://github.com/anthonyntk/react-native-music-widget#readme"
+  "homepage": "https://github.com/AnthonyNTK/react-native-music-widget#readme"
 }
