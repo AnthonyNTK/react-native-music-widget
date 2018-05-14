@@ -22,7 +22,7 @@
   "license": "MIT",
   "dependencies": {
     "react-native-slider": "^0.11.0",
-    "react-native-sound": "^0.10.9",
+    "react-native-sound": "^0.10.9"
   },
   "bugs": {
     "url": "https://github.com/AnthonyNTK/react-native-music-widget/issues"
