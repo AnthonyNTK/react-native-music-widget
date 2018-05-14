@@ -1,0 +1,31 @@
+{
+  "name": "react-native-music-widget",
+  "version": "1.0.0",
+  "description": "A simple widget-liked music component for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1 "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyntk/react-native-music-widget.git"
+  },
+  "keywords": [
+    "react native",
+    "music",
+    "audio",
+    "widget",
+    "player",
+    "component"
+  ],
+  "author": "AnthonyNTK <anthonyng97921@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-slider": "^0.11.0",
+    "react-native-sound": "^0.10.9",
+  },
+  "bugs": {
+    "url": "https://github.com/anthonyntk/react-native-music-widget/issues"
+  },
+  "homepage": "https://github.com/anthonyntk/react-native-music-widget#readme"
+}
